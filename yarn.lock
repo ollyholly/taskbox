@@ -5020,7 +5020,7 @@ chownr@^2.0.0:
   resolved "https://registry.npmjs.org/chownr/-/chownr-2.0.0.tgz"
   integrity sha512-bIomtDF5KGpdogkLd9VspvFzk9KfpyyGlS8YFVZl7TGPBHL5snIOnxeshwVgPteQ9b4Eydl+pVbIyE1DcvCWgQ==
 
-chromatic@^6.5.1:
+chromatic@^6.6.1:
   version "6.6.1"
   resolved "https://registry.yarnpkg.com/chromatic/-/chromatic-6.6.1.tgz#253d84d5d5d3b12e1b3d073affb6a97917ed051a"
   integrity sha512-6v4hXvOi1aq84EzpXv6gzHtnuS3x2HpDWSH4+lXoTsEwUTMN0sUEX3gVaSlyQSfJ1FlZveyIcQuVlo2IPuZdXg==
